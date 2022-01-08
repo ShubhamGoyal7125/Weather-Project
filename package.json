@@ -1,0 +1,15 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "My weather Project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "express": "^4.17.1"
+  }
+}
